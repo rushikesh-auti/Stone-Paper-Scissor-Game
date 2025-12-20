@@ -30,3 +30,9 @@ Stone-Paper-Scissor/
 ├── style.css # Styling file
 ├── script.js # JavaScript game logic
 └── README.md # Project documentation
+
+---
+
+## Author
+
+Rushikesh Auti
