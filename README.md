@@ -33,6 +33,10 @@ Stone-Paper-Scissor/
 
 ---
 
+ss
+<img width="1471" height="750" alt="error" src="https://github.com/user-attachments/assets/238dd5c2-25ce-420a-adfa-6a7f9a90c73b" />
+
+
 ## Author
 
 Rushikesh Auti
